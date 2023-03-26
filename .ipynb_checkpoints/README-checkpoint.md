@@ -4,7 +4,7 @@ USYD FinTech Course Week 2 Challenge
 
 ## References and notes
 
-Coding syntax: UTF-8
+coding syntax: UTF-8
 
 Code source is exercises/demonstrations in class in addition to:
 
